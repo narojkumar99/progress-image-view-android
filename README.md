@@ -1,5 +1,5 @@
 # progress-image-view-android
-Simple progress with ImageView android
+Simple progress with ImageView android implemention
 
 ## Demo
 <p align="center">
